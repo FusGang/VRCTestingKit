@@ -13,6 +13,10 @@ Please make sure you have downloaded and installed [VRCModLoader](https://github
 > 3. Drag/copy the DLL file that you have downloaded into the Mods folder
 > 4. That's it! Now just run the game and the mod should be installed!
 
+## How to use ##
+> - Use the F1 key to open the menu
+> - Use the TAB key to open the cursor
+
 ## Features ##
 > - [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor)
 > - NetworkManager Logger

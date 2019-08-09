@@ -1,0 +1,11 @@
+Assembly-CSharp.dll
+RuntimeUnityEditor.Core.dll
+UnityEngine.CoreModule.dll
+UnityEngine.dll
+UnityEngine.IMGUIModule.dll
+UnityEngine.PhysicsModule.dll
+UnityEngine.UI.dll
+VRCCore-Standalone.dll
+VRCModLoader.dll
+VRCSDK2.dll
+VRCTools.dll

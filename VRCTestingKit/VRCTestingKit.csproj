@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\lib\0Harmony.dll</HintPath>
+    </Reference>
     <Reference Include="Assembly-CSharp">
       <HintPath>..\lib\Assembly-CSharp.dll</HintPath>
     </Reference>
@@ -67,9 +70,6 @@
     </Reference>
     <Reference Include="VRCSDK2">
       <HintPath>..\lib\VRCSDK2.dll</HintPath>
-    </Reference>
-    <Reference Include="VRCTools">
-      <HintPath>..\lib\VRCTools.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

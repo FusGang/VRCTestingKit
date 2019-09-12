@@ -8,4 +8,4 @@ UnityEngine.UI.dll
 VRCCore-Standalone.dll
 VRCModLoader.dll
 VRCSDK2.dll
-VRCTools.dll
+0Harmony.dll
